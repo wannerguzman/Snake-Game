@@ -27,7 +27,7 @@ the length changes.
 
 ```
 You can create a folder Snake-Game add all the source code and images provided in the Game folder.
-Go to terminal and into the directory of the File created with the source code.
+Go to terminal and into the directory of the file created with the source code.
 Compile using command javac *.java in terminal
 Run using java Main in terminal.
 
