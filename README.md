@@ -10,7 +10,7 @@ collapse with itself the game ends and you can press space to restart.
 # Compile
 
 ```
-You can create a folder Snake-Game add all the souce code provided in the Game folder.
+You can create a folder Snake-Game add all the souce code and images provided in the Game folder.
 Go to terminal and into the deriectory of the File created with the source code.
 Compile using command javac *.java in terminal
 Run using java Main in terminal.
