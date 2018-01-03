@@ -17,3 +17,4 @@ Run using java Main in terminal.
 
 ```
 # GamePlay
+![Screenshot](https://github.com/wannerguzman/Snake-Game/blob/master/giphy%20(1).gif)
